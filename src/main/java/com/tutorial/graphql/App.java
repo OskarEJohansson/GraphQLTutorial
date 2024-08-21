@@ -3,6 +3,7 @@ package com.tutorial.graphql;
 import com.tutorial.graphql.model.Country;
 import com.tutorial.graphql.repository.CountryRepository;
 import com.tutorial.graphql.service.CountryService;
+import com.tutorial.graphql.service.CountryServiceImpl;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
